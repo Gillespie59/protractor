@@ -10,12 +10,12 @@ without a major version bump.
 The `plugins` folder contains default plugins for Protractor.
 
 ##In this document:
-* [Using Plugins](#using-plugins)
-* [Writing Plugins](#writing-plugins)
+* [Using Plugins](plugins#using-plugins)
+* [Writing Plugins](plugins#writing-plugins)
 * Default Plugins
-  * [Accessibility Plugin](#accessibility-plugin)
-  * [ngHint Plugin](#nghint-plugin)
-  * [Timeline Plugin](#timeline-plugin)
+  * [Accessibility Plugin](plugins#accessibility-plugin)
+  * [ngHint Plugin](plugins#nghint-plugin)
+  * [Timeline Plugin](plugins#timeline-plugin)
 
 Using Plugins
 -------------
